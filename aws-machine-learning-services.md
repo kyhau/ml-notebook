@@ -2,16 +2,16 @@
 
 Reference: https://aws.amazon.com/amazon-ai
 
-### Machine Learning at Amazon
+## Machine Learning at Amazon
 
 1. Product Recommendations
 1. Robotics Path Optimization
 1. Alexa's natural language understanding and automated speech recognition
 1. Computer vision technology is used by Amazon's drone initiative Prime Air and in the retail experience with Amazon Go.
 
-### Machine Learning Stack - 3 key layers
+## Machine Learning Stack - 3 key layers
 
-#### 1. Frameworks and Infrastructure
+### 1. Frameworks and Infrastructure
 
 Bottom layer provides the infrastructure and frameworks for machine learning experts who are comfortable building
 deep learning models, training them, doing inference, and getting the data from their models into production
@@ -26,7 +26,7 @@ Deep Learning AMI has all of the major frameworks installed
 1. Caffe and Caffe 2 - popular for computer vision projects
 1. TensorFlow - has more models running on AWS today than anywhere else (e.g. Pinterest, FINRA, 2Simple)
 
-#### 2. Machine learning platforms
+### 2. Machine learning platforms
 
 Second layer of the stack is for customers who want a fully managed platform for building models using their own data.
 
@@ -34,7 +34,7 @@ Second layer of the stack is for customers who want a fully managed platform for
 1. SparkML - popular with companies like Netflix who create highly personalized recommendations using models that have
    been trained with more than 25 petabytes of data.
 
-#### 3. API-driven services (API-based tools)
+### 3. API-driven services (API-based tools)
 
 The top layer of the stack is for developers and organizations who want to add intelligence to their applications
 using an API call rather than developing and training their own models.
@@ -46,7 +46,7 @@ using an API call rather than developing and training their own models.
 1. Amazon Lex - helps developer to build intelligent conversational interfaces (use same technology as Alexa).
 
 
-### Date Store
+## Date Store
 
 Machine Learning is not an isolated capability but part of an application architecture that builds on the quality of
 the underlying data.
